@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509528532000",
+    "firebase_url": "https://adventure-run-1914f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adventure-run-1914f",
+    "storage_bucket": "adventure-run-1914f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509528532000:android:cc24730d5be288c6aac845",
+        "android_client_info": {
+          "package_name": "com.StudentProject.AdventureRun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509528532000-2ibh3q9eeic7s3epkdg5q6pntigjmi5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLXwbeYaKAANGRdUi6fqk5SRb-IJbfjto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509528532000-2ibh3q9eeic7s3epkdg5q6pntigjmi5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
