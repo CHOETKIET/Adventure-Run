@@ -1,0 +1,69 @@
+# ==============================================================================
+# 1. Unity Generated Files & Folder
+# ==============================================================================
+
+# Directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Asset Imports
+# These files store the platform-specific settings that can be regenerated.
+# If these cause conflicts, you may uncomment them, but generally recommended to keep them.
+# *.pidb
+# *.suo
+# *.user
+# *.userprefs
+# *.asset.meta
+# *.unity.meta
+# *.cs.meta
+
+# Project Files
+*.csproj
+*.unityproj
+*.sln
+*.vcproj
+*.pidb
+*.booproj
+
+# ==============================================================================
+# 2. Firebase & Sensitive Configuration Files
+# ==============================================================================
+
+# Firebase Configuration Files (Contains API Keys/Secrets)
+# These files should NOT be committed to public repositories.
+# You should add them manually on each machine or use an alternative secure method.
+/Assets/google-services.json
+/Assets/GoogleService-Info.plist
+/Assets/Firebase/
+/Assets/Plugins/iOS/Firebase/
+/Assets/StreamingAssets/google-services.json
+/Assets/StreamingAssets/GoogleService-Info.plist
+
+# Streaming Assets
+# May contain built assets or configuration that shouldn't be tracked.
+Assets/StreamingAssets/
+
+# ==============================================================================
+# 3. External Tool
+# ==============================================================================
+
+# Visual Studio / Visual Studio Code
+.vs/
+.vscode/
+
+# Rider
+.idea/
+
+# Windows Thumbnails
+Thumbs.db
+
+# ==============================================================================
+# 4. Compiled
+# ==============================================================================
+# Windows
+*.exe
+*.msi
